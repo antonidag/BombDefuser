@@ -1,0 +1,2 @@
+cd Projekt filer\Level Editor\ProjektFiles\LevelEditor_Kassler_Edition\LevelEditor_Kassler_Edition\bin\x86\Debug 
+start LevelEditor_Kassler_Edition.exe
